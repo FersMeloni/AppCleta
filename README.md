@@ -5,6 +5,7 @@ Nos hemos divido la tarea entre los dos compañeros que quedamos en el cursado d
 Meli se encargo de ver como serian los formularios, datos a ingresar y que se encuentre estetita y funcionando los links en el Blog. A su vez, realiza el armado del videito del funcionamiento de la página.
 Fer se encargo de elegir plantilla, dar preforma, y la parte de login, logout, registro y avatars. Además del armado del README, para poder colocar fotografías.-
 
+https://youtu.be/f6eTwzS3CWk
 
 Comenzando 🚀
 Descarga los archivos de la app en tu PC
